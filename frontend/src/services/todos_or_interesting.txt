@@ -1,0 +1,20 @@
+grab etherscan data and get useful analytics
+
+get a message everytime a new contract is deployed AND within 5 minutes has more than 50-100k of eth or other asset pooled against it
+
+given a token protocol, find the top 20 earliest buyers
+for each buyer, find the other tokens they were first on
+rank them by which users invest in new protocosl first
+for the top n users, find the protocols they have in common the most to find shortest paths where they intersect
+
+figure out some search parameters to get good signal from twitter search
+
+cant scrape medium so i guess gotta check that manually
+
+could make tooling to help people find prices and exchanges
+
+obvi can add useless blog pages where ppl who dont know can learn how to maek a wallet, buy crypto and shift
+
+can add some nft features to a card so users can fuck around with their nfts and like make them if they enter file paths where images live
+
+also need to create a dynamic nft ala uniswap/chainlink to show intertesting shit in nfts
